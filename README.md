@@ -1,7 +1,7 @@
 # USTClitho2.0
 Updated Unified Seismic Tomography Models for Continental China Lithosphere (USTClitho2.0)
 
-This is updated unified 3-D P- and S-wave velocity models of the crust and uppermost mantle for continental China, obtained by joint inversion of body wave arrival times and surface wave dispersion curves data.
+This is the updated unified 3-D P- and S-wave velocity models of the crust and uppermost mantle for continental China, obtained by joint inversion of body wave arrival times and surface wave dispersion curves data.
 
 * Method: Joint inversion of body wave (P and S-wave) arrival times and Rayleigh wave dispersion curves data (Zhang et al.,2014,PAG； Han et al.,2021,SRL).
 
