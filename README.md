@@ -16,7 +16,7 @@ This is the updated unified 3-D P- and S-wave velocity models of the crust and u
 
 * We also provide models in the tomoDD format (MOD-USTClitho2.0) with a Python script (interpVel.py) with which you can use USTClitho2.0 as the initial models for regional study in China.
 * Usage: 1) Modify lines 101-103 in the Python script to change the MOD coordinates; 
-         2) Run the command 'python interpVel.py' to generate the new model in tomoDD-format (MOD).
+         2) Run the command `python interpVel.py` to generate the new model in tomoDD-format (MOD).
 
 
 If you have any questions, please feel free to contact Haijiang Zhang (zhang11@ustc.edu.cn) or Shoucheng Han (hansc01@mail.ustc.edu.cn).
